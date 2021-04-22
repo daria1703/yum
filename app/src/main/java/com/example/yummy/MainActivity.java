@@ -15,6 +15,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    // THIS IS COMMENT
+
     private static int SPLASH_SCREEN = 5000;
 
     //Variables
